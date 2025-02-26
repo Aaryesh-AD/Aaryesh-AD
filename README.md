@@ -1,3 +1,6 @@
+<p align="center">
+  <img align="center"  src="https://github.com/user-attachments/assets/4e3618f7-b8e0-4e3b-8e37-edd7a45efff7" alt="Coding Illustration Bioinformatics" width="100%">
+</p>
 
 <h1 align="center"> Hi there👋, I am <a target="_blank" href="https://www.linkedin.com/in/aaryesh-ad/">Aaryesh Deshpande</a></h1>
 
