@@ -32,7 +32,7 @@ I'm a **Master’s student in Bioinformatics at Georgia Tech**, specializing in 
 ### Languages, Frameworks and Tools
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/080876a3-c024-41d9-8d4f-61e9d75c2e72" alt="Tech Stack" width="80%">
+  <img src="https://github.com/user-attachments/assets/080876a3-c024-41d9-8d4f-61e9d75c2e72" alt="Tech Stack" width="100%">
 </p>
 
 ### Python Libraries
