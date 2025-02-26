@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi there👋, I am <a target=_blank href="https://www.linkedin.com/in/aaryesh-ad/">Aaryesh Deshpande</a></h1>
+<h1 align="center"> Hi there👋, I am <a target="_blank" href="https://www.linkedin.com/in/aaryesh-ad/">Aaryesh Deshpande</a></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧬-Bioinformatics-0055FF?style=for-the-badge&logo=biomolecules&logoColor=white&labelColor=black&color=blue&style=flat-square" />
