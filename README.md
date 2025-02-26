@@ -12,7 +12,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a **Master’s student in Bioinformatics at Georgia Tech**, specializing in **Molecular Dynamics (MD), Machine Learning for Drug Discovery, and Structural Bioinformatics**. My research focuses on developing innovative computational toolkits and analysis pipelines to advance drug discovery and enzyme studies. Currently, I am exploring protein language models for enzyme study and advanced deep learning techniques to enhance the accuracy and efficiency of MD simulations, aiming to bridge the gap between computational modeling and real-world biological applications.
+I'm a **Master’s student in Bioinformatics at Georgia Tech**, specializing in **Molecular Dynamics (MD), Machine Learning for Drug Discovery, and Structural Bioinformatics**. My research focuses on developing innovative computational toolkits, software and analysis pipelines for advance drug discovery and enzyme studies. Currently, I am currently exploring protein language models for enzyme study and advanced deep learning techniques to enhance the accuracy and efficiency of MD simulations, aiming for effective modeling of biological problems. In addition to my work in Bioinformatics and computational drug discovery, I am also a front-end web developer specializing in Svelte and a 3D artist specializing in Cinema 4D and Houdini.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a **Master’s student in Bioinformatics at Georgia Tech**, specializing in 
 
 ## 🛠️ Tech Stack
 
-### Languages and Tools
+### Languages, Frameworks and Tools
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/080876a3-c024-41d9-8d4f-61e9d75c2e72" alt="Tech Stack" width="80%">
@@ -34,7 +34,6 @@ I'm a **Master’s student in Bioinformatics at Georgia Tech**, specializing in 
 
 ### Python Libraries
 TensorFlow, PyTorch, Scikit-learn, OpenCV, KivyMD, PyQt, Flask, pandas, NumPy, Biopython, RDkit, DeepChem, MDAnalysis
-
 
 ---
 
