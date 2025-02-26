@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center"  src="https://github.com/user-attachments/assets/85d47203-ea20-4499-8530-e38b2111486d" alt="Coding Illustration Bioinformatics" width="100%">
+  <img align="center"  src="https://github.com/user-attachments/assets/256f24eb-4082-44ab-a01d-5ef7f9d8706b" alt="Coding Illustration Bioinformatics" width="100%">
 </p>
 
 <h1 align="center"> Hi there👋, I am <a target="_blank" href="https://www.linkedin.com/in/aaryesh-ad/">Aaryesh Deshpande</a></h1>
