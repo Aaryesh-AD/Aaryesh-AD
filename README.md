@@ -5,6 +5,9 @@
 <h1 align="center"> Hi there👋, I am <a target="_blank" href="https://www.linkedin.com/in/aaryesh-ad/">Aaryesh Deshpande</a></h1>
 
 <p align="center">
+  <a href="https://aaryesh-ad.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=teal&style=flat-square" />
+  </a>
   <img src="https://img.shields.io/badge/🧬-Bioinformatics-0055FF?style=for-the-badge&logo=biomolecules&logoColor=white&labelColor=black&color=blue&style=flat-square" />
   <img src="https://img.shields.io/badge/⚛️-Computational_Chemistry-673AB7?style=for-the-badge&logo=chemistry&logoColor=white&labelColor=black&color=purple&style=flat-square" />
   <img src="https://img.shields.io/badge/💻-Machine_Learning-FF5722?style=for-the-badge&logo=machine-learning&logoColor=white&labelColor=black&color=orange&style=flat-square" />
@@ -60,6 +63,9 @@ TensorFlow, PyTorch, Scikit-learn, OpenCV, KivyMD, PyQt, Flask, pandas, NumPy, B
 
 ## 🌐 Let's Connect  
 <p align="center">
+  <a target=_blank href="https://aaryesh-ad.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website">
+  </a> '
   <a target=_blank href="https://www.linkedin.com/in/aaryesh-ad/">
     <img src="https://img.shields.io/badge/Aaryesh_Deshpande_-_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Aaryesh Deshpande">
   </a> '
