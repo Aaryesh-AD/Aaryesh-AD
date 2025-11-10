@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there👋, I am <a target="_blank" href="https://www.linkedin.com/in/aaryesh-ad/">Aaryesh Deshpande</a></h1>
 
 <p align="center">
-  <a href="https://aaryesh-ad.github.io/Portfolio/" target="_blank">
+  <a href="https://aaryesh-ad.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=teal&style=flat-square" />
   </a>
   <img src="https://img.shields.io/badge/🧬-Bioinformatics-0055FF?style=for-the-badge&logo=biomolecules&logoColor=white&labelColor=black&color=blue&style=flat-square" />
