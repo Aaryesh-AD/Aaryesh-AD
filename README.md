@@ -43,23 +43,6 @@ TensorFlow, PyTorch, Scikit-learn, OpenCV, KivyMD, PyQt, Flask, pandas, NumPy, B
 
 ---
 
-### 📌 Featured Projects  
-🔹 **[GU Drug-Pro Toolkit](https://github.com/Aaryesh-AD/GU-Drug-Pro-Toolkit)**  
-*A bioinformatics toolkit for early-stage drug discovery, integrating ML-powered ADMET screening.*
-
-🔹 **[Sequence Cluster & Consensus Tool](https://github.com/Aaryesh-AD/Sequence-cluster-consensus.git)**  
-*Hybrid clustering & sequence reconstruction for downstream MD simulations.*
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaryesh-AD&show_icons=true&theme=radical" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryesh-AD&size_weight=0.5&count_weight=0.5" height="150">
-</p>
-
-
----
 
 ## 🌐 Let's Connect  
 <p align="center">
