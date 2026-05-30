@@ -46,7 +46,7 @@ TensorFlow, PyTorch, Scikit-learn, OpenCV, KivyMD, PyQt, Flask, pandas, NumPy, B
 
 ## 🌐 Let's Connect  
 <p align="center">
-  <a target=_blank href="https://aaryesh-ad.github.io/Portfolio/">
+  <a target=_blank href="https://aaryesh-ad.github.io/">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website">
   </a> '
   <a target=_blank href="https://www.linkedin.com/in/aaryesh-ad/">
